@@ -80,8 +80,3 @@ Open a terminal in the project directory.
 Run the script with:
 
      python calculator.py
-
-
-ies like colorama).
-
-Package it as an installable Python module.
